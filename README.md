@@ -32,7 +32,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Joshua Ross, j.ross@uniandes.edu.co, 202326898
+1. Joshua Ross, j.ross@uniandes.edu.co, 202326898 
 1. Sharik Contreras, sd.contreras@uniandes.edu.co, 202226314
 1. Mariana Castillo, m.castillo112345@uniandes.edu.co, 202320169 
 [Back to top](#sample-mvc)
